@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "An adaptive tiling strategy combined with cache-aware memory access patterns will reduce the computational time of Flash Attention by at least 20% while maintaining the same accuracy levels."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
